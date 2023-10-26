@@ -36,3 +36,7 @@ todo esto lo estuve probando con test_mis_resultados.csv
 que es una copia ResultadosElectorales_2023.csv (el archivo original pesado)
 pero con muchisimas menos lineas, mas liviano para poder probar cosas.
 nunca lo probe con el archivo original ResultadosElectorales_2023.csv todavia
+
+cuando termina el script te crea dos archivos csv con los resultados obtenidos mesa por mesa
+output.csv
+output_largo.csv
