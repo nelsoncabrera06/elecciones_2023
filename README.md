@@ -26,3 +26,13 @@ Pero le idea general esta bien, faltaria hacer un filtro mas grande nomas.
 
 Si crees que encontraste algo raro, podes ir a chequear esa mesa en:
 https://resultados.gob.ar/
+
+
+-----
+
+Para correrlo solo es necesario tirar el sigiuente comando en el terminal "python3 check.py"
+
+todo esto lo estuve probando con test_mis_resultados.csv
+que es una copia ResultadosElectorales_2023.csv (el archivo original pesado)
+pero con muchisimas menos lineas, mas liviano para poder probar cosas.
+nunca lo probe con el archivo original ResultadosElectorales_2023.csv todavia
